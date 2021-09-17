@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DarthIV02
+- 👀 I’m interested in mathematics, IA (although I'm beggining) and Movies (Star Wars and Marvel are my favorite)
+- 🌱 I’m currently learning IA and a bit of Ciber Security
+- 📫 How to reach me ...
