@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @DarthIV02
-- 👀 I’m interested in mathematics, IA (although I'm beggining) and Movies (Star Wars and Marvel are my favorite)
+- 👋 Hi, I’m @DarthIV02 - Ivannia Gomez Moreno
+- Currently enrolled in Computer Science - working hard for that degree !!!
+- 👀 I’m interested in mathematics, all things AI, programming and Movies (Star Wars and Marvel are my favorite)
 - 🌱 I’m currently learning IA and a bit of Ciber Security
-- 📫 How to reach me ...
+- 📫 How to reach me gomezivannia02@gmail.com
