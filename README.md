@@ -2,5 +2,5 @@
 - Computer Science Graduate
 - Masters in Data Engineering and Analytics - working hard for that degree !!!
 - 👀 I’m interested in mathematics, all things AI, programming and Movies (Star Wars and Marvel are my favorite)
-- 🌱 I’m currently learning IA and a bit of Ciber Security
+- 🌱 I’m currently learning IA and ML models
 - 📫 How to reach me gomezivannia02@gmail.com
